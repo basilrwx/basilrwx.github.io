@@ -5,8 +5,8 @@ description: My investigation into infant baptism as practiced by the Reformed
 date: 2026-10-31
 draft: false
 tags:
-  - Faith
-  - Baptism
+  - faith
+  - baptism
 ---
 You can read part 0 [here](https://undefined.pyfy.ch/blog/2026-08-14-investigating-infant-baptism-part-0-of-n/).
 
@@ -116,6 +116,3 @@ Now, what is the big practical problem of baptising infants?
 2. Children are counted as members of the invisible Church (there's a whole lot of theological gymnastics behind this).
 3. Which leads to the Presbyterian church (or any church practising infant baptism) growing through biological reproduction rather than evangelism.
 
-
-
-&nbsp;
