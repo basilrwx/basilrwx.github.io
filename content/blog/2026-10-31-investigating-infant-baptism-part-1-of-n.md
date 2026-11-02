@@ -3,7 +3,7 @@ title: Investigating Infant Baptism - Part 1 Of N
 description: My investigation into infant baptism as practiced by the Reformed
   Presbyterian church.
 date: 2026-10-31
-draft: false
+draft: true
 tags:
   - faith
   - baptism
